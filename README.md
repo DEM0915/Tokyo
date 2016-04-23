@@ -1,6 +1,7 @@
 # Tokyo
 do this for petit
-![Foo](http://pic3.bbzhi.com/xitongbizhi/gaoqingjingmeichengshifengjingfengguang/computer_kuan_251974_14.jpg)
+
+![image](https://github.com/DEM0915/Tokyo/raw/master/bin/data/tokyo.jpg)
 
 ##Develop Tools
 * Xcode version 7.2.1
